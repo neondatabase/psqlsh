@@ -1,8 +1,8 @@
 import { EndpointState } from "@neondatabase/api-client";
 
-import config from "../config";
-import { apiClient } from "../apiClient";
-import { logger } from "../logger";
+import config from "../config.js";
+import { apiClient } from "../apiClient.js";
+import { logger } from "../logger.js";
 
 export async function cleanup() {
   const {
