@@ -39,10 +39,10 @@ export async function cleanup() {
   return count;
 }
 
-cleanup()
-  .then((c) => {
-    logger.info({ count: c }, "Cleanup completed");
-  })
-  .catch((error) => {
-    logger.error(error, "Cleanup failed");
-  });
+// cleanup()
+//   .then((c) => {
+//     logger.info({ count: c }, "Cleanup completed");
+//   })
+//   .catch((error) => {
+//     logger.error(error, "Cleanup failed");
+//   });
