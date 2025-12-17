@@ -1,5 +1,5 @@
-import { cleanup } from '../../server/scripts/cleanup';
-import { logger } from '../../server/logger';
+import { cleanup } from '../../server/scripts/cleanup.js';
+import { logger } from '../../server/logger.js';
 
 export const dynamic = 'force-dynamic';
 
