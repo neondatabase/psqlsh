@@ -21,6 +21,11 @@ const db = [
     description: "A dataset of Netflix movies and TV shows.",
   },
   {
+    file: "dvdrental.sql",
+    name: "DVD Rental (Tutorial)",
+    description: "The official PostgreSQL tutorial database with 15 tables representing a DVD rental store business.",
+  },
+  {
     file: "pgrag.sql",
     name: "pg_rag demo",
     description:

@@ -18,6 +18,7 @@ First, pick a dataset to work with. You can start with an empty database or choo
 - **Chinook**. A sample database representing a digital media store.
 - **Pokemon**. A dataset with a single table containing information about Pokemon.
 - **Netflix**. A dataset with a single table containing information about Netflix shows.
+- **DVD Rental (Tutorial)**. The official <a href="https://neon.com/postgresql/tutorial" target="_blank">PostgreSQL tutorial</a> database with 15 tables representing a DVD rental store business.
 - **pgrag**. A demo database for the <a href="https://neon.tech/docs/extensions/pgrag" target="_blank">pgrag</a> extension. It contains two tables: `docs` and `embeddings`. The `docs` table contains text from PGConfEU presentations and the `embeddings` table contains chunks and their embedding vectors.
 
 Make your selection and watch as your database spins up in real-time — don't blink!
