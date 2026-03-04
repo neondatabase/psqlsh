@@ -36,7 +36,7 @@
     "vite": "^5.4.20"
   },
   "dependencies": {
-    "@hono/node-server": "^1.19.0",
+    "@hono/node-server": "^1.19.10",
     "@hono/zod-validator": "0.7.2",
     "@neondatabase/api-client": "^1.10.3",
     "@neondatabase/serverless": "^0.9.5",
